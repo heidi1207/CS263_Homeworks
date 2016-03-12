@@ -1,0 +1,9 @@
+D:\[CS263]\[CS263] 2016-03-08\HelloWorld\bin\Debug\HelloWorld.exe.config
+D:\[CS263]\[CS263] 2016-03-08\HelloWorld\bin\Debug\HelloWorld.exe
+D:\[CS263]\[CS263] 2016-03-08\HelloWorld\bin\Debug\HelloWorld.pdb
+D:\[CS263]\[CS263] 2016-03-08\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+D:\[CS263]\[CS263] 2016-03-08\HelloWorld\obj\Debug\HelloWorld.exe
+D:\[CS263]\[CS263] 2016-03-08\HelloWorld\obj\Debug\HelloWorld.pdb
+D:\CS263 Class\CS263_Homeworks\Homework1\HelloWorld\bin\Debug\HelloWorld.exe.config
+D:\CS263 Class\CS263_Homeworks\Homework1\HelloWorld\obj\Debug\HelloWorld.exe
+D:\CS263 Class\CS263_Homeworks\Homework1\HelloWorld\obj\Debug\HelloWorld.pdb

@@ -1,0 +1,6 @@
+D:\[CS263]\[CS263] 2016-03-08\Example01\bin\Debug\Example01.exe.config
+D:\[CS263]\[CS263] 2016-03-08\Example01\bin\Debug\Example01.exe
+D:\[CS263]\[CS263] 2016-03-08\Example01\bin\Debug\Example01.pdb
+D:\[CS263]\[CS263] 2016-03-08\Example01\obj\Debug\Example01.csprojResolveAssemblyReference.cache
+D:\[CS263]\[CS263] 2016-03-08\Example01\obj\Debug\Example01.exe
+D:\[CS263]\[CS263] 2016-03-08\Example01\obj\Debug\Example01.pdb
