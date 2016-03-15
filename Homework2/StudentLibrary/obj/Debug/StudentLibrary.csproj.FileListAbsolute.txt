@@ -1,0 +1,5 @@
+D:\CS263 Class\[CS263] Practice\[CS263] 2016-03-11\StudentLibrary\bin\Debug\StudentLibrary.dll
+D:\CS263 Class\[CS263] Practice\[CS263] 2016-03-11\StudentLibrary\bin\Debug\StudentLibrary.pdb
+D:\CS263 Class\[CS263] Practice\[CS263] 2016-03-11\StudentLibrary\obj\Debug\StudentLibrary.csprojResolveAssemblyReference.cache
+D:\CS263 Class\[CS263] Practice\[CS263] 2016-03-11\StudentLibrary\obj\Debug\StudentLibrary.dll
+D:\CS263 Class\[CS263] Practice\[CS263] 2016-03-11\StudentLibrary\obj\Debug\StudentLibrary.pdb
