@@ -1,5 +1,0 @@
-D:\CS263 Class\[CS263] Practice\[CS263] 2016-03-11\Pratice01\bin\Debug\Pratice01.exe.config
-D:\CS263 Class\[CS263] Practice\[CS263] 2016-03-11\Pratice01\bin\Debug\Pratice01.exe
-D:\CS263 Class\[CS263] Practice\[CS263] 2016-03-11\Pratice01\bin\Debug\Pratice01.pdb
-D:\CS263 Class\[CS263] Practice\[CS263] 2016-03-11\Pratice01\obj\Debug\Pratice01.exe
-D:\CS263 Class\[CS263] Practice\[CS263] 2016-03-11\Pratice01\obj\Debug\Pratice01.pdb
