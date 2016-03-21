@@ -1,0 +1,6 @@
+D:\CS263 Class\[CS263] Practice\[CS263] 2016-03-18\Practice04\bin\Debug\Practice04.exe.config
+D:\CS263 Class\[CS263] Practice\[CS263] 2016-03-18\Practice04\bin\Debug\Practice04.exe
+D:\CS263 Class\[CS263] Practice\[CS263] 2016-03-18\Practice04\bin\Debug\Practice04.pdb
+D:\CS263 Class\[CS263] Practice\[CS263] 2016-03-18\Practice04\obj\Debug\Practice04.exe
+D:\CS263 Class\[CS263] Practice\[CS263] 2016-03-18\Practice04\obj\Debug\Practice04.pdb
+D:\CS263 Class\[CS263] Practice\[CS263] 2016-03-18\Practice04\obj\Debug\Practice04.csprojResolveAssemblyReference.cache
