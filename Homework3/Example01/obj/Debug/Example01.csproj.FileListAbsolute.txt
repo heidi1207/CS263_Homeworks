@@ -1,0 +1,11 @@
+D:\Heidi\WinForm\[CS263] 2016-03-15\Example01\bin\Debug\Example01.exe.config
+D:\Heidi\WinForm\[CS263] 2016-03-15\Example01\bin\Debug\Example01.exe
+D:\Heidi\WinForm\[CS263] 2016-03-15\Example01\bin\Debug\Example01.pdb
+D:\Heidi\WinForm\[CS263] 2016-03-15\Example01\bin\Debug\ScoreCalculationLibrary.dll
+D:\Heidi\WinForm\[CS263] 2016-03-15\Example01\bin\Debug\ScoreCalculationLibrary.pdb
+D:\Heidi\WinForm\[CS263] 2016-03-15\Example01\obj\Debug\Example01.csprojResolveAssemblyReference.cache
+D:\Heidi\WinForm\[CS263] 2016-03-15\Example01\obj\Debug\Example01.exe
+D:\Heidi\WinForm\[CS263] 2016-03-15\Example01\obj\Debug\Example01.pdb
+D:\CS263 Class\[CS263] Practice\[CS263] 2016-03-15\Example01\bin\Debug\Example01.exe.config
+D:\CS263 Class\[CS263] Practice\[CS263] 2016-03-15\Example01\obj\Debug\Example01.exe
+D:\CS263 Class\[CS263] Practice\[CS263] 2016-03-15\Example01\obj\Debug\Example01.pdb

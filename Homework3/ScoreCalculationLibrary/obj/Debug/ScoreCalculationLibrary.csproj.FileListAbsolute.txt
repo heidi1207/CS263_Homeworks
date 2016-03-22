@@ -1,0 +1,10 @@
+D:\Heidi\WinForm\[CS263] 2016-03-15\ScoreCalculationLibrary\bin\Debug\ScoreCalculationLibrary.dll
+D:\Heidi\WinForm\[CS263] 2016-03-15\ScoreCalculationLibrary\bin\Debug\ScoreCalculationLibrary.pdb
+D:\Heidi\WinForm\[CS263] 2016-03-15\ScoreCalculationLibrary\obj\Debug\ScoreCalculationLibrary.csprojResolveAssemblyReference.cache
+D:\Heidi\WinForm\[CS263] 2016-03-15\ScoreCalculationLibrary\obj\Debug\ScoreCalculationLibrary.dll
+D:\Heidi\WinForm\[CS263] 2016-03-15\ScoreCalculationLibrary\obj\Debug\ScoreCalculationLibrary.pdb
+D:\CS263 Class\[CS263] Practice\[CS263] 2016-03-15\ScoreCalculationLibrary\bin\Debug\ScoreCalculationLibrary.dll
+D:\CS263 Class\[CS263] Practice\[CS263] 2016-03-15\ScoreCalculationLibrary\bin\Debug\ScoreCalculationLibrary.pdb
+D:\CS263 Class\[CS263] Practice\[CS263] 2016-03-15\ScoreCalculationLibrary\obj\Debug\ScoreCalculationLibrary.csprojResolveAssemblyReference.cache
+D:\CS263 Class\[CS263] Practice\[CS263] 2016-03-15\ScoreCalculationLibrary\obj\Debug\ScoreCalculationLibrary.dll
+D:\CS263 Class\[CS263] Practice\[CS263] 2016-03-15\ScoreCalculationLibrary\obj\Debug\ScoreCalculationLibrary.pdb
