@@ -1,0 +1,14 @@
+K:\CS263 Class\[CS263] Practice\[CS263] Final Works\OrderLibrary\bin\Debug\OrderLibrary.dll
+K:\CS263 Class\[CS263] Practice\[CS263] Final Works\OrderLibrary\bin\Debug\OrderLibrary.pdb
+K:\CS263 Class\[CS263] Practice\[CS263] Final Works\OrderLibrary\obj\Debug\OrderLibrary.csprojResolveAssemblyReference.cache
+K:\CS263 Class\[CS263] Practice\[CS263] Final Works\OrderLibrary\obj\Debug\OrderLibrary.KitchenDisplay.resources
+K:\CS263 Class\[CS263] Practice\[CS263] Final Works\OrderLibrary\obj\Debug\OrderLibrary.csproj.GenerateResource.Cache
+K:\CS263 Class\[CS263] Practice\[CS263] Final Works\OrderLibrary\obj\Debug\OrderLibrary.dll
+K:\CS263 Class\[CS263] Practice\[CS263] Final Works\OrderLibrary\obj\Debug\OrderLibrary.pdb
+F:\CS263 Class\[CS263] Practice\[CS263] Final Works\OrderLibrary\obj\Debug\OrderLibrary.csprojResolveAssemblyReference.cache
+F:\CS263 Class\[CS263] Practice\[CS263] Final Works\OrderLibrary\obj\Debug\OrderLibrary.KitchenDisplay.resources
+F:\CS263 Class\[CS263] Practice\[CS263] Final Works\OrderLibrary\obj\Debug\OrderLibrary.csproj.GenerateResource.Cache
+F:\CS263 Class\[CS263] Practice\[CS263] Final Works\OrderLibrary\obj\Debug\OrderLibrary.dll
+F:\CS263 Class\[CS263] Practice\[CS263] Final Works\OrderLibrary\bin\Debug\OrderLibrary.dll
+F:\CS263 Class\[CS263] Practice\[CS263] Final Works\OrderLibrary\bin\Debug\OrderLibrary.pdb
+F:\CS263 Class\[CS263] Practice\[CS263] Final Works\OrderLibrary\obj\Debug\OrderLibrary.pdb
